@@ -7,4 +7,6 @@
            </argument>
        </arguments>
    </type>
+   <preference for="Ejemplo\HolaMundo\Api\Data\ItemInterface" type="Ejemplo\HolaMundo\Model\Item"></preference>
+   <preference for="Ejemplo\HolaMundo\Api\ItemRepositoryInterface" type="Ejemplo\HolaMundo\Model\ItemRepository"></preference>
 </config>
